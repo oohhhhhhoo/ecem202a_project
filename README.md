@@ -1,2 +1,2 @@
 # ecem202a_project
-Template for project websites for UCLA ECEM202A / CSM213A
+This is repository template for UCLA ECEM202A / CSM213A projects
